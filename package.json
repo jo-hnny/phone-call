@@ -1,0 +1,16 @@
+{
+  "name": "call-bone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.12.1",
+    "ts-node": "^10.9.2"
+  }
+}
